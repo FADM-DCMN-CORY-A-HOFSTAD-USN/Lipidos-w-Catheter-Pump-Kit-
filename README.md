@@ -20,7 +20,7 @@ Lípidos is an FDA-approved plant-based medical clinical formula for use with a 
 Lípidos is a mild cancer medication with the primary function of replacing lipid capsules and spinal fluid vitamins lost to prostate cancer. Lípidos is sterile and provides alkaline antiviral medication to support a clean healthy spinal column, brain cavity, and internal organ tract. Lípidos provides lipid capsules for many bodily fluids including blood, plasma, spine, and brain fluid.
 
 
-Lipid capsules that match the shape of human lipid capsules have been found in an organic blue corn species. VirusTC bought share in this organic blue corn. The "grit" portion of the corn kernel contains high concentrations of lipids to supply the kernel germ's development into a new corn plant. The grit is harvested, and the rest of the corn goes into various food products that VirusTC is invested in. The grit contains an organic glue that is broken down by plant-based solution (Peppermint or lemon oil). Any additional separation is done via centrifuge.
+Lipid capsules that match the shape of human lipid capsules have been found in an organic blue corn species. VirusTC bought share in this organic blue corn. The "grit" portion of the corn kernel contains high concentrations of lipids to supply the kernel germ's development into a new corn plant. The grit is harvested, and the rest of the corn goes into various food products that VirusTC is invested in. The grit contains an organic glue that is broken down by plant-based solution (peppermint or lemon oil). Any additional separation is done via centrifuge.
 
 The lipid capsules are placed in solution with H2O and a propietary 
 
