@@ -25,7 +25,9 @@ Lipid capsules that match the shape of human lipid capsules have been found in a
 The lipid capsules are placed in a solution with H2O and VirusTC honey.
 70% H2O
 20% Honey
-2
+7% organic corn lipids
+2.98% Lemon concentrate
+0.02 Organic Kosher-Halal salt
 
 
 ## Cerebrospinal Fluid [CSF]<br>
