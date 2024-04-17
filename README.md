@@ -39,3 +39,23 @@ phosphorus (inorganic)	1.0 - 2.0 mg/dL<br>
 urea	6.0 - 16.0 mg/dL<br>
 uric acid	0.5 - 3.0 mg/dL<br>
 
+## Lipidos via Catheter Pump<br>
+Sodium (Na)<br>
+Calcium (ca)<br>
+Potassium (K)<br>
+Magnesium (Mg)<br>
+Phosphorus (P)<br>
+Selenium (Se)<br>
+Copper (Cu)a<br>
+Magnesium (Cr)a<br>
+Chromium (Cr)a<br>
+Zinc (Zn)a<br>
+Thiamine (B1)<br>
+Riboflavin (B2)<br>
+Niacin (B3)<br>
+Pantothenic acid (B5)<br>
+Pyridoxine (B6)<br>
+Folic acid (B9)<br>
+Ascorbic acid (C)<br>
+Phyllochinon (K)<br>
+
