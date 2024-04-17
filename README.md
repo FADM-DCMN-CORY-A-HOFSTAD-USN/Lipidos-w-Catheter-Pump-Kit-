@@ -23,7 +23,7 @@ Lípidos is a mild cancer medication with the primary function of replacing lipi
 Lipid capsules that match the shape of human lipid capsules have been found in an organic blue corn species. VirusTC bought share in this organic blue corn. The "grit" portion of the corn kernel contains high concentrations of lipids to supply the kernel germ's development into a new corn plant. The grit is harvested, and the rest of the corn goes into various food products that VirusTC is invested in. The grit contains an organic glue that is broken down by organic proprietary plant-based compounds. Any additional separation is done via centrifuge
 
 
-Cerebrospinal Fluid [CSF]<br>
+##Cerebrospinal Fluid [CSF]<br>
 sodium	136.0 - 150.0 m Eq/L<br>
 potassium	2.3 - 2.7 m Eq/L<br>
 magnesium	2.4 - 3.0 m Eq/L<br>
