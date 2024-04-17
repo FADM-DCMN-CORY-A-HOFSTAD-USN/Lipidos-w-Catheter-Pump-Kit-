@@ -24,7 +24,7 @@ Lipid capsules that match the shape of human lipid capsules have been found in a
 
 ## The lipid capsules are placed in a solution with H2O and VirusTC honey.<br>
 70% Aklaline Charged H2O<br>
-20% Honey<br>
+20% VirusTC Honey<br>
 7% organic corn lipids<br>
 2.98% Lemon concentrate<br>
 0.02 Organic Kosher-Halal salt
