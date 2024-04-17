@@ -26,8 +26,7 @@ Lipid capsules that match the shape of human lipid capsules have been found in a
 70% Aklaline Charged H2O<br>
 20% VirusTC Honey<br>
 7% organic corn lipids<br>
-2.98% Lemon concentrate<br>
-0.02 Organic Kosher-Halal salt
+3% Lemon concentrate<br>
 
 
 ## Cerebrospinal Fluid [CSF]<br>
