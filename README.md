@@ -22,11 +22,11 @@ Lípidos is a mild cancer medication with the primary function of replacing lipi
 
 Lipid capsules that match the shape of human lipid capsules have been found in an organic blue corn species. VirusTC bought share in this organic blue corn. The "grit" portion of the corn kernel contains high concentrations of lipids to supply the kernel germ's development into a new corn plant. The grit is harvested, and the rest of the corn goes into various food products that VirusTC is invested in. The grit contains an organic glue that is broken down by a proprietary plant-based solution (lemon oil). Any additional separation is done via centrifuge.
 
-The lipid capsules are placed in a solution with H2O and VirusTC honey.
-70% H2O
-20% Honey
-7% organic corn lipids
-2.98% Lemon concentrate
+The lipid capsules are placed in a solution with H2O and VirusTC honey.<br>
+70% H2O<br>
+20% Honey<br>
+7% organic corn lipids<br>
+2.98% Lemon concentrate<br>
 0.02 Organic Kosher-Halal salt
 
 
