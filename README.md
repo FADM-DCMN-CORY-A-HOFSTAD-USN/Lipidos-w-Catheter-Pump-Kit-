@@ -24,16 +24,16 @@ Lipid capsules that match the shape of human lipid capsules have been found in a
 
 
 Cerebrospinal Fluid [CSF]
-sodium	136.0 - 150.0 m Eq/L
-potassium	2.3 - 2.7 m Eq/L
-magnesium	2.4 - 3.0 m Eq/L
-protein	2 - 4 mg/dL
-glucose	45.0 - 60.0 mg/dL
-calcium	2.1 - 2.7 m Eq/dL
-cholesterol	present in small amounts
-creatinine	0.5 - 1.2 mg/dL
-lactic acid dehyrdogenase (LDH)	present in small amounts
-phosphorus (inorganic)	1.0 - 2.0 mg/dL
-urea	6.0 - 16.0 mg/dL
-uric acid	0.5 - 3.0 mg/dL
+sodium	136.0 - 150.0 m Eq/L<br>
+potassium	2.3 - 2.7 m Eq/L<br>
+magnesium	2.4 - 3.0 m Eq/L<br>
+protein	2 - 4 mg/dL<br>
+glucose	45.0 - 60.0 mg/dL<br>
+calcium	2.1 - 2.7 m Eq/dL<br>
+cholesterol	present in small amounts<br>
+creatinine	0.5 - 1.2 mg/dL<br>
+lactic acid dehyrdogenase (LDH)	present in small amounts<br>
+phosphorus (inorganic)	1.0 - 2.0 mg/dL<br>
+urea	6.0 - 16.0 mg/dL<br>
+uric acid	0.5 - 3.0 mg/dL<br>
 
